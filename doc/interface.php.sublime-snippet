@@ -1,0 +1,7 @@
+<snippet>
+    <content>/* ----------------------- */
+/* # INTERFACE INTERFACE # */
+/* ----------------------- */</content>
+    <tabTrigger>interface</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
