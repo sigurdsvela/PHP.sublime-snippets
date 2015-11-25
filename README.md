@@ -39,7 +39,7 @@ echo "</pre>";
 Same as `ppre`, but uses `var_dump` instead
 
 ```php
-vpre
+dpre
 
 echo "<pre>";
 var_dump({});
