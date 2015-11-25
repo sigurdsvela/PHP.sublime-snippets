@@ -1,0 +1,7 @@
+<snippet>
+    <content>echo "&lt;pre&gt;";
+var_dump(${1:value});
+echo "&lt;/pre&gt;";</content>
+    <tabTrigger>dpre</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
